@@ -29,4 +29,12 @@ EOF
 sudo -i <<EOF
 curl -sSL https://raw.githubusercontent.com/Tozuck/all/main/ads.sh | bash
 EOF
+
 ```
+# sell
+
+
+```
+sudo -i <<EOF
+curl -sSL https://raw.githubusercontent.com/Tozuck/all/main/sell.sh | bash
+EOF
