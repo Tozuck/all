@@ -72,6 +72,7 @@ oRYGzb2YgQoe2PGiCQFRethl1AndCU+zkYlnCxTKjhZIJ3bN7khDLWp+qxyYxA9r
 NuUbWQyp5lhKhnC+i/dvVjlGmnlrIpBJ2QWMQ6vkmj5+wwwbEd4s+PVUZtKrYm7F
 rbHA+6WuAj/+dfnBocKTReSATQ2G1bUinyvXqxjeRVs=
 -----END CERTIFICATE-----
+EOL
 
 cd ~/Marzban-node
 docker compose up -d
