@@ -31,6 +31,7 @@ curl -sSL https://raw.githubusercontent.com/Tozuck/all/main/ads.sh | bash
 EOF
 
 ```
+https://raw.githubusercontent.com/Tozuck/all/main/fuckingrules.srs
 # sell
 
 
