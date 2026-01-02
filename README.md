@@ -32,10 +32,10 @@ EOF
 
 ```
 https://raw.githubusercontent.com/Tozuck/all/main/FuckingRules.srs
-# sell
+# MAX PRO
 
 
 ```
 sudo -i <<EOF
-curl -sSL https://raw.githubusercontent.com/Tozuck/all/main/sell.sh | bash
+curl -sSL https://raw.githubusercontent.com/Tozuck/all/main/maxpro.sh | bash
 EOF
