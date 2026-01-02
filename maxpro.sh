@@ -88,6 +88,7 @@ ufw allow 62051
 ufw allow 1234
 ufw allow 2083
 ufw allow 2053
+ufw allow 8880
 ufw --force enable
 ufw reload
 speedtest
